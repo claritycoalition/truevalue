@@ -1,6 +1,6 @@
 # True Value Initiative
 
-### Achieving True Value
+### _Achieving True Value_
 
 The True Value Initiative \(TVI\) is a global knowledge-to-action strategy by leading world experts from finance, investment, and sustainable development.
 
