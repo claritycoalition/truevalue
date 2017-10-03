@@ -22,7 +22,9 @@ In the face of this enormous challenge, the True Value Initiative aims to:
 
 As rapidly growing economies dramatically change resource supply/demand and global investment priorities in the decades leading to 2050, Clarity is working to bridge the information gap between current approaches in identifying resource and well-being needs and the data and infrastructure current investors require in order to invest in those needs.
 
-Since 2012, Clarity partners have collaborated internationally to contextualize True Value measures and management into local and global economic models. Clarity’s projects create the enabling environments required to:
+Since 2012, Clarity partners have collaborated internationally to contextualize True Value measures and management into local and global economic models. 
+
+Clarity’s projects create the enabling environments required to:
 
 1. collect, validate, and analyze FIESG data and knowledge ranging from locally sourced information to national accounts
 2. use this new information to redefine the risk and reward equation for investment, including to evaluate opportunities that could not be seen as clearly or at all previously
