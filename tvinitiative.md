@@ -6,7 +6,7 @@ The True Value Initiative \(TVI\) is a global knowledge-to-action strategy by le
 
 As resource use and environmental impact put pressures on economic progress and social well-being, having the data to evaluate and inform decision making for finance, investment, policy, and day-to-day living will be key to sustainable long-term returns.
 
-On a global level, decision makers are increasingly aware of the risks that “business as usual” will have on society in the decades through to 2050. A major barrier to identifying and measuring these risks and issues — and thus correcting the **megatrends** of population growth, climate change, and resource use — is the lack of standardized, comparable data. Without this data and information, the investments that would prove most useful for creating **a future in which 10 billion people can live well** cannot be made.
+On a global level, decision makers are becoming increasingly aware of the risks that “business as usual” will have on society in the decades through to 2050. A major barrier to identifying and measuring these risks — and thus addressing the **megatrends** of population growth, climate change, and resource use — is the lack of standardized, comparable data. Without this data and information, the investments that would prove most useful for creating **a future in which 10 billion people can live well** cannot be made.
 
 In the face of this enormous challenge, the True Value Initiative aims to:
 
@@ -22,7 +22,7 @@ In the face of this enormous challenge, the True Value Initiative aims to:
 
 As rapidly growing economies dramatically change resource supply/demand and global investment priorities in the decades leading to 2050, Clarity is working to bridge the information gap between current approaches in identifying resource and well-being needs and the data and infrastructure current investors require in order to invest in those needs.
 
-Since 2012, Clarity partners have collaborated internationally to contextualize True Value measures and management into local and global economic models. 
+Since 2012, Clarity partners have collaborated internationally to contextualize True Value measures and management into local and global economic models.
 
 Clarity’s projects create the enabling environments required to:
 
