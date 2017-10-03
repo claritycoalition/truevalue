@@ -10,6 +10,3 @@ True value accounting will create and enhance the information needed to change t
 
 In 2015 this project, which formed part of a proposal to the EU Horizon 2020 funding stream, achieved marks for excellence. The Super SMART projects are being built for complex stakeholder engagement. Two sister proposals are SS Energy, and SS Cities and Communities, which apply similar investment strategy tools in their relative contexts.
 
-  
-
-
