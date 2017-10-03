@@ -4,5 +4,7 @@ Through its projects, Clarity brings together international partners to build th
 
 Strategizing with finance and investment leaders, on the one hand, and partnering with local stakeholders and regional small and medium-sized enterprises, on the other, Clarity is building the True Value future top down and bottom up.
 
-Stakeholder engagement is what allows Clarity projects to leverage the enabling environments needed to capture and demonstrate new data, knowledge, and True Value.
+Stakeholder engagement is what allows Clarity projects to leverage the enabling environments needed to capture and demonstrate new data, knowledge, and True Value. But even more than that, Clarity finds key players and strategies that are already making the necessary changes to effect sustainable outcomes in their own economies. 
+
+Clarity's True Value data will highlight what and how these initiatives compare to "business as usual" and as such bring more 
 
