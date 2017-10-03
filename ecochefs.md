@@ -1,6 +1,6 @@
 # EcoChefs Global
 
-### Capturing TV data in small-scale food production
+### Capturing True Value data in small-scale food production
 
 EcoChefs creates the enabling environment to optimize the role of small-scale rural farmers and food producers in the transition to sustainable food production, thriving food business, improved and equitable rural economies, and food and nutrition security \(FNS\).
 
