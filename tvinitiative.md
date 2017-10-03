@@ -28,7 +28,7 @@ Clarity’s projects create the enabling environments required to:
 
 1. collect, validate, and analyze FIESG data and knowledge ranging from locally sourced information to national accounts
 2. use this new information to redefine the risk and reward equation for investment, including to evaluate opportunities that could not be seen as clearly or at all previously
-3. apply this new information to better demonstrate steps in the path to sustainable dev for business and governments
+3. apply this new information to better demonstrate steps in the path to sustainable development for business and governments
 4. provide this information to the crowd — clients, customers, consumers.
 
 Clarity’s projects fit into and support TVI by functioning as unique innovative models or platforms for the creation and demonstration of new data, knowledge, and True Value.
