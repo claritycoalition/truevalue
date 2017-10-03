@@ -5,7 +5,6 @@ Clarity has developed a number of tools and innovations in support of the True V
 * True Value Accounting
   * Resource Accounting
   * Confidence Accounting
-
 * Policy Performance Bonds
 * TV Semantics Framework
 * CODVERB
