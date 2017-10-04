@@ -1,6 +1,6 @@
 # True Value Overview
 
-The True Value Initiative \(TVI\) is a global knowledge-to-action strategy by leading world experts from finance, investment, and sustainable development.
+The True Value Initiative \(TVI\) is a global knowledge-to-action strategy by leading world experts from finance, investment, and sustainable development, led by Clarity Coalition.
 
 Through its projects, Clarity brings together international partners to build the complex multi-sector relationships needed to achieve True Value economies by 2050.
 
