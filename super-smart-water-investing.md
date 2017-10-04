@@ -1,6 +1,6 @@
 # Super Smart Water Investing
 
-### Scaling up public–private investment in best-practice water management
+#### Scaling up public–private investment in best-practice water management
 
 Super Smart Water Investing combines finance strategy, policy performance bonds, bond indexing, and true value accounting to evaluate water investment opportunities in the Danube river basin. This project aims to enable, scale up, and promote public and private investment in best-practice water infrastructure, technologies, and resource management. The objective is to bring investment needs together with investors.
 

@@ -1,4 +1,4 @@
-# [sub-sahara-food-and-energy-security.md](sub-sahara-food-and-energy-security.md)Policy Performance Bonds
+# Policy Performance Bonds
 
 ### Rewarding governments and businesses that keep their promises
 

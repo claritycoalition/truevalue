@@ -1,6 +1,6 @@
 # India's Development Alternatives
 
-### Pursuing sustainability versus "business as usual"
+#### Pursuing sustainability versus "business as usual"
 
 Development Alternatives \(DA\), based in New Delhi, was founded by Ashok Khosla over 30 years ago to bring business approaches to sustainable development. The Development Alternatives Group now comprises the not-for-profit flagship Society for Development Alternatives, the business-oriented incubator Technology and Action for Rural Advancement \(TARA\), and its commercial subsidiaries which include TARA Machines and Tech Services \(TMTS\), TARA Environmental Services \(TARAenviro\), TARAhaat Information and Marketing Services \(TARAhaat\), TARA Nirman Kendra \(TNK\), and DESI Power Orchha \(DESI Power\). While the focus of DA is on innovation and policy outreach, the mandate of TARA and its subsidiaries is to set up mechanisms for the large-scale delivery of goods and services essential to sustainable human development.
 

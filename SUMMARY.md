@@ -12,5 +12,5 @@
 * [Clarity Tools and Innovations](clarity-tools-and-innovations.md)
 * [Policy Performance Bonds](policy-performance-bonds.md)
 * [TV Challenge](tv-challenge.md)
-* Glossary
+* [Glossary](glossary.md)
 

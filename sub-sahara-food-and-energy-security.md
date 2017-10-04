@@ -1,6 +1,6 @@
 # Sub-Sahara Food and Nutrition Security
 
-### Building farmers' capacities in the water–food–energy nexus
+#### Building farmers' capacities in the water–food–energy nexus
 
 Food and Nutrition Security \(FNS\) for Sub-Saharan Africa works to scale up and adapt best-practice farming models in the water–food–energy nexus. The project builds on the Agritech Rural Development Cluster \(ARC\) model already underway or planned for six West African Countries. Innovations in the business model bring together small-scale and family farmers for training and R&D towards sustainable methods which optimize production and affordable off-the-grid energy solutions. In particular, the project looks at how value moves through Agritech’s supply chain from raw material to commodity trading in Singapore.
 
