@@ -1,6 +1,6 @@
 # True Value Blockchain
 
-### Leveraging open source data integrity
+### Leveraging open source data integrity, transparency, verifiability
 
 Blockchain technology will provide TVI with numerous advantages. Mutual distributed ledgers \(MDLs aka blockchain\), as pioneered by Clarity partner Z/Yen Group since 1995, are changing how transactions are being recorded and tracked.
 
