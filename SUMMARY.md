@@ -10,4 +10,5 @@
 * [TV Blockchain](tv-blockchain.md)
 * [TV Semantics](tv-semantics.md)
 * [Policy Performance Bonds](policy-performance-bonds.md)
+* [Clarity Tools and Innovations](clarity-tools-and-innovations.md)
 
