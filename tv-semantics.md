@@ -8,3 +8,5 @@ Current work on this project involves semanticizing already existing public data
 
 Data must be meaningful, useful, verifiable, and robust to effect true value outcomes. It is this data that will help identify the investments which best create paths to sustainable ends.
 
+\(Updated October 2017\)
+
