@@ -4,7 +4,7 @@
 
 As resource use and environmental impact put pressures on economic progress and social well-being, having the data to evaluate and inform decision making for finance, investment, policy, and day-to-day living will be key to sustainable long-term returns.
 
-On a global level, decision makers are becoming increasingly aware of the risks that “business as usual” will have on society in the decades through to 2050. A major barrier to identifying and measuring these risks — and thus addressing the **megatrends** of population growth, climate change, and resource use — is the lack of standardized, comparable data. Without this data and information, the investments that would prove most useful for creating **a future in which 10 billion people can live well** cannot be made.
+On a global level, decision makers are becoming increasingly aware of the risks that “business as usual” will have on society in the decades through to 2050. A major barrier to identifying and measuring these risks — and thus addressing the megatrends of population growth, climate change, and increasing resource use — is the lack of standardized, comparable data. Without this data and information, the investments that would prove most useful for creating a future in which 10 billion people can live well cannot be made.
 
 In the face of this enormous challenge, the True Value Initiative aims to:
 
