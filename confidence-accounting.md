@@ -26,7 +26,7 @@ See more detail in the publication "Confidence Accounting", a proposal from Lon
 
 ## Confidence Accounting example: "Is this company a going concern?"
 
-For this example, CA answers the question “Is this company a going concern?” The finance director’s report would state that the mean value of equity at the balance sheet date is £36 billion, with a conventional minimum of £6.5 billion and a maximum of £65 billion, with 95% confidence the value of equity is at least £24 billion. The 95th percentile value, or confidence limit, is used in Confidence Accounting to support a going-concern assertion. If the state of the world doesn’t change, and the accounts are competently drawn up, the realized value of the balance sheet should be no more than £12 billion (£36–24 million) worse than the mean. 
+For this example, CA answers the question “Is this company a going concern?” The finance director’s report would state that the mean value of equity at the balance sheet date is £36 billion, with a conventional minimum of £6.5 billion and a maximum of £65 billion, with 95% confidence the value of equity is at least £24 billion. The 95th percentile value, or confidence limit, is used in Confidence Accounting to support a going-concern assertion. If the state of the world doesn’t change, and the accounts are competently drawn up, the realized value of the balance sheet should be no more than £12 billion (that is, £36 billion minus £24 billion) worse than the mean. 
 
 ![](/assets/confidence-2.png)
 
