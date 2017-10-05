@@ -13,4 +13,5 @@
 * [Policy Performance Bonds](policy-performance-bonds.md)
 * [TV Challenge](tv-challenge.md)
 * [Glossary](glossary.md)
+* [Clarity History](clarity-history.md)
 

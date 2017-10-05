@@ -1,6 +1,6 @@
 # Ecochefs Global
 
-### Capturing True Value data in small-scale food production
+#### Capturing True Value data in small-scale food production
 
 Ecochefs creates the enabling environment to optimize the role of small-scale rural farmers and food producers in the transition to sustainable food production, thriving food business, improved and equitable rural economies, and food and nutrition security \(FNS\).
 
@@ -17,4 +17,6 @@ Ecochefs Global adapts existing initiatives from global partners and advisors:
 Peer pressure within the Ecochefs network drives sustainability goals and the reliability of self-evaluations. Chefs and producers are most interested in expanding their network, which provides the supply chain infrastructure to deliver quality food from producer to consumer.
 
 As a TVI project, Ecochefs Global generates local granular data that can be used to evaluate operational performance in relation to actual global and national indicators on carbon emissions, water and land use, population health, and quality of life. All data will be standardized per unit dollar output for direct comparisons in local, regional, and national contexts.
+
+\(Updated October 2017\)
 
