@@ -14,3 +14,5 @@ This crowd-sourced data can then be used for comparisons against public data fro
 
 The TV blockchain is open source and always will be. Clarity’s role in True Value will be as the clearinghouse of the data. The governance of True Value data is of utmost importance because its robustness and verifiability are what will direct mainstream investment to correct the megatrends.
 
+\(Updated October 2017\)
+
