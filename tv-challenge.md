@@ -11,3 +11,5 @@ The transition for 10 billion people to live well, within the limits that one pl
 
 ![](/assets/challenge.png)Source: UNEP \(2011\) Decoupling natural resource use and environmental impacts from economic growth, A Report of the Working Group on Decoupling to the International Resource Panel.
 
+\(Updated October 2017\)
+
