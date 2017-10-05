@@ -18,3 +18,5 @@ Peer pressure within the Ecochefs network drives sustainability goals and the re
 
 As a TVI project, Ecochefs Global generates local granular data that can be used to evaluate operational performance in relation to actual global and national indicators on carbon emissions, water and land use, population health, and quality of life. All data will be standardized per unit dollar output for direct comparisons in local, regional, and national contexts.
 
+\(Updated October 2017\)
+
