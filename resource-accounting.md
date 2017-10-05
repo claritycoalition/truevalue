@@ -9,3 +9,5 @@ The Big Data revolution enables the processing of this huge data. Databases and 
 Such resource accounting is already in prototype use for assessing the “footprint” of individual companies and other organizations. At a national level, an example is Balancing Act, which covers 135 sectors of the Australian economy.
 
 By providing information per unit $ output, resource information is related directly to the financial accounts of businesses and other organizations, and to traditional indicators of economic activity such as Gross Domestic Product (GDP).
+
+![](/assets/33.png)
