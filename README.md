@@ -8,4 +8,4 @@ This new data will help bridge the information gap in directing institutional in
 
 Through its projects, Clarity Coalition brings together international partners to build the complex multi-sector relationships needed to achieve True Value economies by 2050.
 
-Strategizing with finance and investment leaders, on the one hand, and engaging with local stakeholders and regional small and medium-sized enterprises, on the other, Clarity Coalition is building the True Value future top down and bottom up.
+Strategizing with finance and investment leaders, and developing alongside local stakeholders and regional small/medium-sized enterprises, Clarity Coalition is building the True Value future top down and bottom up.
