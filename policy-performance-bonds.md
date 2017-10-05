@@ -34,5 +34,5 @@ There are a number of benefits of PPBs, created from a simple step of adding an 
 
 **6. An investment strategy that can be implemented immediately and follows the path to 10 billion people living well by 2050.**
 
-\(Updated August 2017\)
+\(Updated October 2017\)
 
