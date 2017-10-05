@@ -16,7 +16,7 @@
 
 * Clarity works with Camilla Hall, advisor to Ashok Khosla, to design a project proposal for Expo 2020 UAE. See notes.
 * Clarity Coalition is launched at a Longfinance event in London. See Bridging the Gap.
-* Clarity and Dialogik — a leading energy, water, and resource accounting experts — collaborate on Europe-based projects for true value accounting and transition investment strategies and tools for Super SMART Water \(SSW-Invest\), Super SMART Energy \(SSE-Invest\) and Super Smart Cities and Communities \(SCC-Invest\).
+* Clarity and Dialogik — a leading energy, water, and resource accounting experts — collaborate on Europe-based projects for True Value accounting and transition investment strategies and tools for Super SMART Water \(SSW-Invest\), Super SMART Energy \(SSE-Invest\) and Super Smart Cities and Communities \(SCC-Invest\).
 * The European Investment Bank assists modus vivendi and Z/Yen Group to design Super SMART Water and Energy Investing.
 
 ### 2013
