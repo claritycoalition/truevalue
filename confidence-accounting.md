@@ -14,7 +14,7 @@ For the below hypothetical company, range values are populated with resource acc
 
 Source: modus vivendi, 2014.
 
-## Why is Confidence Accounting important for financial markets?
+### Why is Confidence Accounting important for financial markets?
 
 Attention remains on how to bring greater resilience and stability to global capital markets, including through reforms in financial accounting.
 
@@ -24,7 +24,7 @@ Company valuation with a single point value asserts, as it did, that all investm
 
 See more detail in the publication "Confidence Accounting", a proposal from Long Finance, the Association of Chartered Certified Accountants (ACCA), and the Chartered Institute of Securities and Investment (CISI).
 
-## Confidence Accounting example: "Is this company a going concern?"
+### Confidence Accounting example: "Is this company a going concern?"
 
 For this example, CA answers the question “Is this company a going concern?” The finance director’s report would state that the mean value of equity at the balance sheet date is £36 billion, with a conventional minimum of £6.5 billion and a maximum of £65 billion, with 95% confidence the value of equity is at least £24 billion. The 95th percentile value, or confidence limit, is used in Confidence Accounting to support a going-concern assertion. If the state of the world doesn’t change, and the accounts are competently drawn up, the realized value of the balance sheet should be no more than £12 billion (that is, £36 billion minus £24 billion) worse than the mean. 
 
