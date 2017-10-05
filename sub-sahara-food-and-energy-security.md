@@ -8,3 +8,5 @@ In line with MDGs and SDGs, local data and knowledge collection and scoring asse
 
 In this way, Agritech investors consider TVI will highlight their best practices for scaling up investment and improving entire West African economies.
 
+\(Updated October 2017\)
+
