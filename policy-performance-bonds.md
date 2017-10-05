@@ -14,25 +14,25 @@ Below are examples of how PPBs can be used in different sectors and industries.
 
 There are a number of benefits of PPBs, created from a simple step of adding an interest-linked sustainability target — agreed between investor and investee — to a sovereign, municipal, or corporate bond contract.
 
-##### 1. Potentially reduced or zero interest rates for government and business if the sustainability target is met.
+#### 1. PPBs can provide potentially reduced or zero interest rates for government and business if the sustainability target is met.
 
 > An investor in an index-linked forest bond \(PPB\), such as for the Brazilian or Peruvian Amazon, receives an excess return if the state, municipality, or forestry company \(issuers of the bond\) fail to reforest in 16 years’ time to the level of forestation in 1990. With the bonds paying an interest rate of twice the annualized gap, in 16 years hence, if forestation is the same as today, the bonds are paying 16%. If forestation increases by 0.5% a year or more, then the bonds pay no interest.
 
-**2. Investment finance for governments to spend on local needs — including non-revenue-producing services and in developing countries.**
+#### 2. PPBs can be investment finance for governments to spend on local needs — including non-revenue-producing services and in developing countries.
 
 > The London congestion tax is reported to have reduced transport-related carbon emissions in the city by 16%. This is a potential PPB interim target achieved largely by regulation rather than investment. Issuing a municipal bond linked to this emissions target would potentially free low-interest government investment for health, education, public infrastructure, and other needs.
 
-**3. New investment opportunities, including for institutional investors such as global pension funds and insurance.  **
+#### 3. PPBs provide new investment opportunities, including for institutional investors such as global pension funds and insurance.
 
 > By investing in a PPB portfolio, risk-reward is diversified. For example, the C40 mega-cities are setting ambitious green targets for carbon emissions and other resource use and environmental impacts. Creating a bond for part, or all, of the C40 index would spread fiscal, economic, socio-political, and green target-linked risk-reward. The C40 governance framework could also provide an underwriting facility from developed nations to favor much-needed investment in developing and emerging country cities.
 
-**4. A hedging tool for investment portfolios.  **
+#### 4. PPBs are a hedging tool for investment portfolios.
 
 > Investors may choose to invest in low carbon energy in a region and also hedge with PPBs from the respective government, should the low carbon future fail to materialize.
 
-**5. An incentive for governments and businesses to achieve ambitious longer-term sustainability targets.**
+#### 5. PPBs are an incentive for governments and businesses to achieve ambitious longer-term sustainability targets.
 
-**6. An investment strategy that can be implemented immediately and follows the path to 10 billion people living well by 2050.**
+#### 6. PPBs are an investment strategy that can be implemented immediately and follows the path to 10 billion people living well by 2050.
 
 \(Updated August 2017\)
 
