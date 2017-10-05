@@ -21,7 +21,7 @@
 
 ### 2013
 
-* modus vivendi and Z/Yen Group publish ‘Accounting for True Value’.
+* modus vivendi and Z/Yen Group publish "Accounting for True Value".
 * Clarity works with Buenos Aires city government to design the preliminary stages of Policy Performance Bonds for the C40 Cities Index, aimed at transitioning mainstream investment to low-carbon cities.
 * modus vivendi and Z/Yen Group form the Clarity Secretariat, hosted by modus vivendi and linked with Longfinance.
 
