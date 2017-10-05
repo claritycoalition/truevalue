@@ -17,4 +17,8 @@ Lack of stakeholder enagement is a major criticism of currently available accoun
 Value recognition is different for different people. What is critical in one culture, sector, or economy may not be so for another. This is why local stakeholder engagement is of utmost importance. Direct local collaboration will provide bottom-up information and results.
 
 ### Open Source Data and Data Accessibility
+An open-source revolution is underway in how software, analytical tools, and data are created, and how researchers and developers collaborate. Researchers — notably academic researchers working on financial, environmental, and social trends — are increasingly self-assembling teams and are often ahead of the business sector in ideas within a field, without necessarily focusing on the commercial potential. 
+
+As a result of this revolution, the prospects of even large financial institutions having the resources to develop proprietary tools or datasets that are more sophisticated, faster created, or better validated than these open-source models is increasingly implausible.
+
 Data transparency and integrity is a priority. Open source is the way.
