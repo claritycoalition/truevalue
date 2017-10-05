@@ -1,6 +1,6 @@
 # True Value Initiative
 
-### _Achieving True Value_
+#### Achieving True Value
 
 As resource use and environmental impact put pressures on economic progress and social well-being, having the data to evaluate and inform decision making for finance, investment, policy, and day-to-day living will be key to sustainable long-term returns.
 
