@@ -27,9 +27,9 @@
 
 ### 2012
 
-* Longfinance and the global accountancy groups, ACCA and CISI, publish a bold proposal for ‘Confidence Accounting’.
+* Longfinance and the global accountancy groups, ACCA and CISI, publish a bold proposal for "Confidence Accounting".
 * Ashok Khosla, founder of Development Alternatives and Co-Chair of the International Resource Panel,  supports and advises on Clarity’s strategy.
-* On behalf of the European Environment Agency \(EEA\), modus vivendi starts work on the project ‘Future Business, Long Finance’ with leading financial risk–reward analysts Z/Yen Group, and the World Business Council for Sustainable Development.
+* On behalf of the European Environment Agency \(EEA\), modus vivendi starts work on the project "Future Business, Long Finance" with leading financial risk–reward analysts Z/Yen Group, and the World Business Council for Sustainable Development.
 
 
 
