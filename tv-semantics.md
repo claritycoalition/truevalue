@@ -1,6 +1,6 @@
 # True Value Semantics
 
-#### Linking and contextualizing data for better decision making
+#### Linking and contextualizing data to inform decision making
 
 Semantic technology facilitates that every piece of data can be expressed in its simplest form: a triplet – a representation of data points transformed into information that can be processed, linked, and analyzed by computers. Semanticizing and linking the data of various existing databases contextualizes the data, allowing it to be searched and queried to inform decision making.
 
