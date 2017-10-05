@@ -11,6 +11,9 @@
     * [TV Semantics](tv-semantics.md)
 * [Clarity Tools and Innovations](clarity-tools-and-innovations.md)
     * [Policy Performance Bonds](policy-performance-bonds.md)
+    * [TV Accounting]
+         *[Resource Accounting](resource-accounting.md)
+         *[Confidence Accounting]
 * [The Challenge](tv-challenge.md)
 * [Glossary](glossary.md)
 
