@@ -3,7 +3,7 @@
 ### 2017
 
 * True Value Semantics project begins. A technical paper on the True Value Framework is developed to show how data will be linked, with Cambridge Semantics advising.
-* EcoChefs Global becomes a partner in the True Value Initiative.
+* EcoChefs Global, through founder Mariana Lome, becomes a partner in the True Value Initiative.
 
 ### 2016
 
