@@ -14,4 +14,5 @@
 * [TV Challenge](tv-challenge.md)
 * [Glossary](glossary.md)
 * [Clarity History](clarity-history.md)
+* [TV Guiding Principles](tv-guiding-principles.md)
 
