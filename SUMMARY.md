@@ -12,8 +12,8 @@
 ## [Clarity Tools and Innovations](clarity-tools-and-innovations.md)
 * [Policy Performance Bonds](policy-performance-bonds.md)
 * [TV Accounting](tv-accounting.md)
-      *[Resource Accounting](resource-accounting.md)
-      *[Confidence Accounting](confidence-accounting.md)
+     * [Resource Accounting](resource-accounting.md)
+     * [Confidence Accounting](confidence-accounting.md)
 ## [The Challenge](tv-challenge.md)
 ## [Glossary](glossary.md)
 
