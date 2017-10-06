@@ -21,3 +21,4 @@
 * [FAQ](faq.md)
      * [Where does the data come from?](data-about.md)
 * [Glossary](glossary.md)
+* [Bibliography](bibliography.md)
