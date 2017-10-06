@@ -12,7 +12,12 @@ Mechanisms, processes, and relations by which an organization is directed
 
 
 ## megatrends
-Population growth to 10 billion people; climate change; resource use
+Commonly cited global challenges
+* population growth to 10 billion people and demographic shifts (aging population)
+* destabilizing effects of climate change
+* increasing resource use and scarcity
+* urbanization (and rural to urban migration)
+* technological innovation
 
 
 ## sustainable development
