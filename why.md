@@ -1,9 +1,15 @@
-# Why is True Value important?
-
-Increasing consumption anticipated in China, India, and other rapidly growing economies is changing investment priorities for resource allocation, supply and demand, and risk management. 
+# Why now?
 
 Directing institutional investment into sustainable long-term solutions is a crucial step to overcoming the resource challenges of the decades ahead. 
 
-Opportunities for investment strategies may include water resources for agriculture, industry and people; food production; other resource access, depletion and substitution; energy and ‘hedging’ strategies for unburnable carbon; investing in innovation, changing taxation strategies, etc.
+Increasing consumption anticipated in China, India, and other rapidly growing economies is changing investment priorities, resource supply and demand, and risk management. 
 
-Global investment will increasingly be dominated by ‘ordinary’ savers, including through pension funds and insurance institutions acting as drivers to create a world worth living now, while also providing retirement income. Investment innovators amongst HNWI, venture capitalists and impact investors can be expected to trickle down through to mainstream investment.
+Opportunities for global investment (which will increasingly be dominated by "ordinary savers", including through pension funds and insurance institutions) include: 
+
+* water resources for agriculture, industry, people
+* food production
+* other resource access, depletion, substitution
+* energy and hedging strategies for unburnable carbon
+* innovation.
+
+By capturing the data of sustainable best practices in these industries and sectors, True Value will highlight where investment is most needed and best utilized for long-term economic returns while also mitigating the megatrend risks leading up to 2050.
