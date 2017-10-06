@@ -16,7 +16,7 @@ Population growth to 10 billion people; climate change; resource use
 
 
 ## sustainable development
-Famously defined in the Brundtland Report ("One Common Future") as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs"
+"development that meets the needs of the present without compromising the ability of future generations to meet their own needs" — famously defined in the Brundtland Report ("One Common Future") by the UN World Commission on Environment and Development, published in 1987.
 
 ## stakeholder
 Third-party affected by an organization's actions
