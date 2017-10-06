@@ -1,7 +1,8 @@
 # Glossary
 
 ## business as usual
-The status quo of actions promoting only short-term economic returns
+Continued unchanged practices despite changing outlook
+More specifically, the status quo of actions promoting mostly short-term economic returns
 
 
 ## FIESG
