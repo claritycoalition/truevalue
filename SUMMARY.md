@@ -1,10 +1,9 @@
 # Summary
 
-* [Summary](summary.md)
 * [Overview](README.md)
 * [True Value Initiative](tvinitiative.md)
 * [Why?](why.md)
-* [Clarity Projects](clarityprojects.md)
+* [Clarity Projects](clarity-projects.md)
     * [Ecochefs](ecochefs.md)
     * [Super Smart Water Investing](super-smart-water-investing.md)
     * [Sub-Sahara Food and Nutrition Security](sub-sahara-food-and-energy-security.md)
@@ -19,5 +18,6 @@
 * [The Challenge](tv-challenge.md)
 * [Guiding Principles](tv-guiding-principles.md)
 * [Technical Framework](tv-tech-framework.md)
-* [Where does the data come from?](data-about.md)
+* [FAQ](faq.md)
+     * [Where does the data come from?](data-about.md)
 * [Glossary](glossary.md)
