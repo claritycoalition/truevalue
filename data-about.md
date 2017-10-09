@@ -1,4 +1,4 @@
-# Where does all the data come from?
+# Where does the data come from?
 
 Initially, the TV technical framework (TVF) will semanticize public data stores, such as national accounts and those of the UN, FAO, OECD, and the World Bank. In total this will serve as foundational data for "business as usual", against which True Value data will be compared.
 
@@ -8,7 +8,7 @@ From these existing data stores, TVF will aggregate data on indicators such as:
   * environmental indicators – water use, carbon equivalent footprint, primary energy use, materials use, land disturbance
   * social indicators – employment, income, education, health.
 
-#### Why is TVF data better than data already available to the public? 
+## Why is TVF data better than data already available to the public? 
 There are at least two major considerations for data and availability of TVF versus other existing models. 
 
 The first consideration is the source, scope, and reliability of the data. With TVF, the data is sourced from both existing stores as well as directly from businesses and individuals that contribute directly (crowdsourcing). These contributors could be manufacturers, shippers, farmers, restaurants, fisheries — any entity involved in commercial enterprise and throughout supply chains.
