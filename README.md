@@ -1,6 +1,6 @@
 # Overview
 
-The True Value Initiative \(TVI\) is a global knowledge-to-action strategy by leading world experts from finance, investment, and sustainable development.
+The True Value Initiative \(TVI\) is a global knowledge-to-action strategy created by leading world experts from finance, investment, and sustainable development.
 
 The objective of TVI is to provide new information on economic, environmental, and social factors contributing to systemic risk and resource management, and to deepen understanding of how value is created, depleted, and measured. 
 
