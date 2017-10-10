@@ -6,7 +6,7 @@ Clarity partners in accounting, economics, policy, and IT have developed a numbe
   * Resource Accounting
   * Confidence Accounting
 * Policy Performance Bonds
-* TV Semantics Framework
+* TV Technical Framework
 * CODVERB
 * Good, Green, Fair score
 
