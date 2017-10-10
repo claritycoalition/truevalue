@@ -1,7 +1,7 @@
-# The Guiding Principles of the True Value Initiative
+# Guiding Principles of the True Value Initiative
 
 ### Public–Private Partnerships
-As the population grows to 10 billion people, government revenue (taxes) will no longer be enough to fund the infrastructure needed to sustain such population pressure. Cities, communities, and nations must find ways to build public services into private business models. 
+As the population grows to 10 billion people, government revenue (taxes) will no longer be enough to fund the infrastructure needed to sustain such pressure. Cities, communities, and nations must find ways to build public services into private business models. 
 
 Business and finance cannot do it all; they need government to do its part. But government can’t do it all either; it needs to respond faster, with more efficiency, to bring about widespread change in attitudes in society.
 
