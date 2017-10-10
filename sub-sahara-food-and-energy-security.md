@@ -8,5 +8,18 @@ In line with MDGs and SDGs, local data and knowledge collection and scoring asse
 
 In this way, Agritech investors consider TVI will highlight their best practices for scaling up investment and improving entire West African economies.
 
-\(Updated October 2017\)
 
+### Agritech Group
+
+William Kwende, CEO of Agritech Group, boldly states:
+
+> The solution to the world’s food and energy crisis is to build farmers’ capacities to implement sustainable and efficient agricultural practices.
+
+As part of Agritech's business model, the company
+
+1. trains their farmers
+2. clusters farms to scale up innovations and strategies (called the ARC model)
+3. intercrops jatropha for biofuel
+4. 
+
+Measuring the true value of these best practices ...
