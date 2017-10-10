@@ -1,6 +1,6 @@
 # Clarity Tools and Innovations
 
-Clarity has developed a number of tools and innovations in support of the True Value Initiative. Clarity collaborators in accounting, economics, policy, and IT 
+Clarity partners in accounting, economics, policy, and IT have developed a number of tools and innovations in support of the True Value Initiative.
 
 * True Value Accounting
   * Resource Accounting
