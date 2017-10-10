@@ -20,5 +20,7 @@
 * [TV Technical Framework](tv-tech-framework.md)
 * [FAQ](faq.md)
      * [Where does the data come from?](data-about.md)
+     * [Who else is working on this?](who-else.md)
 * [Glossary](glossary.md)
 * [Bibliography](bibliography.md)
+* [Clarity History](clarity-history.md)
