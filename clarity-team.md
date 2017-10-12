@@ -1,28 +1,28 @@
 # Clarity Coalition
 
-Sarah Jones
+#### Sarah Jones
 Clarity General Secretary
 
-Michael Mainelli
+#### Michael Mainelli
 Executive Chairman of Z/Yen Group
 
-William Kwende
+#### William Kwende
 CEO of Agritech Group
 
-Mariana Lome
+#### Mariana Lome
 Cofounder of Ecochefs
 
-Malcolm MacGarvin
+#### Malcolm MacGarvin
 Director of Modus Vivendi
 
-Ashok Khosla
+#### Ashok Khosla
 Chairman, Development Alternatives
 
-Camilla Hall
+#### Camilla Hall
 Advisor to Ashok
 
-Jeff Milton
+#### Jeff Milton
 Clarity Lead Programmer
 
-Vikki Cheung
+#### Vikki Cheung
 Clarity Communications
