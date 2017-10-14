@@ -18,9 +18,10 @@
     * [TV Technical Framework](tv-tech-framework.md)
 * [The Challenge](tv-challenge.md)
 * [Guiding Principles](tv-guiding-principles.md)
-* [FAQ](faq.md)
-     * [Where does the data come from?](data-about.md)
-     * [Who else is working on this?](who-else.md)
+* [FAQ]
+    * [Where does the data come from?](data-about.md)
+    * [Who else is working on this?](who-else.md)
 * [Glossary](glossary.md)
 * [Bibliography](bibliography.md)
 * [Clarity History](clarity-history.md)
+* [Clarity Team](clarity-team.md)
