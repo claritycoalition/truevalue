@@ -12,7 +12,7 @@ Furthermore, blockchain also provides a framework within which people on the gro
 
 This crowd-sourced data can then be used for comparisons against public data from industry and governments. As blockchain can also create an internal economy of its own, the crowd will effectively be paid via blockchain currency to get involved in collecting data and improving value output in their supply chains, whether as a manufacturer, distributor, or consumer.
 
-The TV blockchain is open source and always will be. Clarity’s role in True Value will be as the clearinghouse of the data. The governance of True Value data is of utmost importance because its robustness and verifiability are what will direct mainstream investment to correct the megatrends.
+The TV blockchain is open source and always will be. The governance of True Value data is of utmost importance because its robustness and verifiability are what will direct mainstream investment needed to correct the megatrends.
 
 \(Updated October 2017\)
 
