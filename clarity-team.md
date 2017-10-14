@@ -22,7 +22,7 @@ Chairman, Development Alternatives
 Advisor to Ashok
 
 #### Jeff Milton
-Clarity Lead Programmer
+Clarity Tech
 
 #### Vikki Cheung
-Clarity Communications
+Clarity Comms
