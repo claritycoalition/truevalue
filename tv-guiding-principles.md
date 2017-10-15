@@ -10,7 +10,9 @@ Public–private partnerships will merge their current separate trajectories int
 ### Stakeholder Engagement
 Lack of stakeholder enagement is a major criticism of currently available accounting measures of true value (see Coulson (2006) regarding KPMG's corporate framing of true value).
 
-Value recognition is different for different people. What is critical in one culture, sector, or economy may not be so for another. This is why local stakeholder engagement is of utmost importance. Direct local collaboration will provide bottom-up information and results. Sustainability cannot be compartmentalized; it must be inclusive.
+Value recognition is different for different people. What is critical in one culture, sector, or economy may not be so for another. This is why local stakeholder engagement is of utmost importance. Direct local collaboration will provide bottom-up information and results. Sustainability cannot be compartmentalized; it must be inclusive. 
+
+Public participation is the only way through which sustainability will happen.
 
 ### Open Source Data and Data Accessibility
 An open-source revolution is underway in how software, analytical tools, and data are created, and how researchers and developers collaborate. Researchers — notably academic researchers working on financial, environmental, and social trends — are increasingly self-assembling teams and are often ahead of the business sector in ideas within a field, without necessarily focusing on the commercial potential. 
