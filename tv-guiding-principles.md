@@ -19,4 +19,4 @@ An open-source revolution is underway in how software, analytical tools, and dat
 
 As a result of this revolution, the prospects of even large financial institutions having the resources to develop proprietary tools or datasets that are more sophisticated, faster created, or better validated than these open-source models is increasingly implausible.
 
-Data transparency and integrity is a priority. Open source is the way.
+Data transparency and integrity is a priority for public good.
