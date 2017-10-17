@@ -12,6 +12,8 @@ Ernst & Young (2017) "Is your nonfinancial performance revealing the true value 
 
 Foran, B., Lenzen, M., Dey, C. (2005) "Balancing Act: A triple bottom line analysis of the 135 sectors of the Australian economy". CSIRO Technical report. Available at: http://www.cse.csiro.au/research/balancingact
 
+Gallopin, G. C. (1997) "Indicators and their use: Information for decision-making", in Moldan, B., Billharz, S., and Matravers, R. (eds.) Sustainability Indicators: A Report on the Project on Indicators of Sustainable Development, John Wiley and Sons, Chichester, pp. 13–27.
+
 UN Environment Programme (2011) "Decoupling natural resource use and environmental impacts from economic growth", A Report of the Working Group on Decoupling to the International Resource Panel. Fischer-Kowalski, M., Swilling, M., von Weizsäcker, E.U., Ren, Y., Moriguchi, Y., Crane, W., Krausmann, F., Eisenmenger, N., Giljum, S., Hennicke, P., Romero Lankao, P., Siriban Manalang, A.
 
 UN World Commission on Environment and Development (1987) "Report of the World Commission on Environment and
