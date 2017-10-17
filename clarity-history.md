@@ -7,6 +7,8 @@
 
 ### 2016
 
+* 
+
 ### 2015
 
 * Environmental Policy Performance Bonds gain traction at the Climate Change Conference in Paris \(UNFCCC COP 21\). See: Climate 2020; CEPII; Primier Ministre – France Stratégie; Revue-Banque.
@@ -15,15 +17,15 @@
 ### 2014
 
 * Clarity works with Camilla Hall, advisor to Ashok Khosla, to design a project proposal for Expo 2020 UAE. See notes.
-* Clarity Coalition is launched at a Longfinance event in London. See Bridging the Gap.
+* Clarity Coalition is launched at a Long Finance event in London. See Bridging the Gap.
 * Clarity and Dialogik — a leading energy, water, and resource accounting experts — collaborate on Europe-based projects for True Value accounting and transition investment strategies and tools for Super SMART Water \(SSW-Invest\), Super SMART Energy \(SSE-Invest\) and Super Smart Cities and Communities \(SCC-Invest\).
 * The European Investment Bank assists modus vivendi and Z/Yen Group to design Super SMART Water and Energy Investing.
 
 ### 2013
 
-* modus vivendi and Z/Yen Group publish "Accounting for True Value".
+* Modus Vivendi and Z/Yen Group publish "Accounting for True Value".
 * Clarity works with Buenos Aires city government to design the preliminary stages of Policy Performance Bonds for the C40 Cities Index, aimed at transitioning mainstream investment to low-carbon cities.
-* modus vivendi and Z/Yen Group form the Clarity Secretariat, hosted by modus vivendi and linked with Longfinance.
+* Modus Vivendi and Z/Yen Group form the Clarity Secretariat, hosted by Modus Vivendi and linked with Long Finance.
 
 ### 2012
 
