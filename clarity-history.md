@@ -2,17 +2,18 @@
 
 ### 2017
 
+* TV database is built by and for Clarity projects.
 * True Value Semantics project begins. A technical paper on the True Value Framework is developed to show how data will be linked, with Cambridge Semantics advising.
-* EcoChefs Global, through founder Mariana Lome, becomes a partner in the True Value Initiative.
+* EcoChefs Global, through cofounder Mariana Lomé, becomes a partner in the True Value Initiative.
 
 ### 2016
 
-* 
+* insert
 
 ### 2015
 
 * Environmental Policy Performance Bonds gain traction at the Climate Change Conference in Paris \(UNFCCC COP 21\). See: Climate 2020; CEPII; Primier Ministre – France Stratégie; Revue-Banque.
-* Agritech joins Clarity to design Food and Nutrition Security for Sub-Saharan Africa \(FNS-Sub Sahara\) and The Sahel Hub. This work incorporates sustainability mapping and true value accounting throughout the supply chain of food and biofuel production in 6 West African countries.
+* Agritech joins Clarity to design Food and Nutrition Security for Sub-Saharan Africa \(FNS-Sub Sahara\) and The Sahel Hub. This work incorporates sustainability mapping and True Value accounting throughout the supply chain of food and biofuel production in 6 West African countries.
 
 ### 2014
 
