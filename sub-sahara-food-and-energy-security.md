@@ -18,13 +18,13 @@ William Kwende, CEO of Agritech Group, boldly states:
 Agritech Group builds sustainability into their business model by
 
 1. training their farmers
-> Agritech creates knowledge exchange and improves local community skill sets.
+>> Agritech creates knowledge exchange and improves local community skill sets.
 
 2. clustering farms to scale up innovations and strategies (called the ARC model)
-> Agritech clusters regional family farms to scale up effective water use (e.g. through fertigation, solar-powered pumps)
+>> Agritech clusters regional family farms to scale up effective water use (e.g. through fertigation, solar-powered pumps)
 
 3. intercropping jatropha for biodiesel for both the company itself and commodity trading.
-> Biodiesel from jatropha not only reduces the region's dependence on imported petroleum for energy needs but provides direct employment to communities and increases the standard of living as affordable energy.
+>> Biodiesel from jatropha not only reduces the region's dependence on imported petroleum for energy needs but provides direct employment to communities and increases the standard of living as affordable energy.
 
 But in traditional financial accounts — profit and loss, cash flow and balance sheets — the monetary costs of Agritech's holistic approaches (investing in community knowledge exchange and training, soil recovery, seed storage, and intercropping) are not equated with company value in monetary terms.
 
