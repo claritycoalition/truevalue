@@ -15,11 +15,12 @@ William Kwende, CEO of Agritech Group, boldly states:
 
 > The solution to the world’s food and energy crisis is to build farmers’ capacities to implement sustainable and efficient agricultural practices.
 
-As part of Agritech's business model, the company
+Agritech Group builds sustainability into their business model by
 
-1. trains their farmers
-2. clusters farms to scale up innovations and strategies (called the ARC model)
-3. intercrops jatropha for biofuel
-4. 
+1. training their farmers
+2. clustering farms to scale up innovations and strategies (called the ARC model)
+3. intercropping jatropha for biofuel for both the company itself and commodity trading.
 
-Measuring the true value of these best practices ...
+However, these solutions, which give Agritech the sustainable edge in the broader West African economy, are not accounted for in their financial reports.
+
+By measuring these solutions and their impact on the local and regional economy, TV data will show how Agritech internalizes externalities into their own supply chain and business model.
