@@ -1,7 +1,7 @@
 # Clarity Coalition
 
 #### Sarah Jones
-Clarity General Secretary
+Clarity General Secretary | secretariat@claritycoalition.net
 
 #### Michael Mainelli
 Executive Chairman of Z/Yen Group
