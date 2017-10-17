@@ -13,7 +13,7 @@ Executive Chairman of Z/Yen Group
 #### William Kwende
 CEO of Agritech Group
 
-#### Mariana Lome
+#### Mariana Lomé
 Cofounder of Ecochefs
 
 #### Malcolm MacGarvin
