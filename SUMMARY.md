@@ -21,7 +21,6 @@
 * [Guiding Principles](tv-guiding-principles.md)
 * [FAQ]
     * [Where does the data come from?](data-about.md)
-    * [Who else is working on this?](similar-work.md)
 * [Glossary](glossary.md)
 * [Bibliography](bibliography.md)
 * [Clarity History](clarity-history.md)
