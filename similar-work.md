@@ -1,4 +1,4 @@
-# Similar work in sustainability measurement
+# Similar supporting work
 
 [Long Finance](http://www.longfinance.net), with cofounder and Clarity partner Michael Mainelli
 
