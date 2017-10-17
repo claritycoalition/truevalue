@@ -11,7 +11,7 @@ Financial, Investment, Environmental, Social, Governance
 Mechanisms, processes, and relations by which an organization is directed 
 
 ### indicator
-"an operational represntation of an attribute (quality, characteristic, property) of a system" (Gallopin, 1997)
+"an operational representation of an attribute (quality, characteristic, property) of a system" (Gallopin, 1997)
 
 ### megatrends
 Commonly cited global challenges
