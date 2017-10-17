@@ -14,7 +14,7 @@ Executive Chairman of Z/Yen Group, Cofounder of [Long Finance](www.longfinance.n
 CEO of [Agritech Group](http://www.agritechgroup.com/)
 
 #### Mariana Lomé
-Cofounder of Ecochefs
+Cofounder of [Ecochefs](https://www.institutomaniva.org/ecochefs)
 
 #### Malcolm MacGarvin
 Director of Modus Vivendi, Cofounder of [Pisces RFR](http://www.pisces-rfr.org/)
