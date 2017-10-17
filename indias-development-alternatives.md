@@ -6,3 +6,4 @@ Development Alternatives \(DA\), based in New Delhi, was founded by Ashok Khosla
 
 Adapting the semantic modeling of a data pilot for Ecochefs Global, Clarity will evaluate the true value of Development Alternatives Group. This new knowledge, compared against “business as usual”, will demonstrate the broader economic benefits of DA’s approach, and will support further business investment, policy decisions, growth, and uptake of DA technologies worldwide.
 
+[Development Alternatives Group](http://www.devalt.org/Home.aspx)
