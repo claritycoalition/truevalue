@@ -12,14 +12,16 @@ GGF was first used for the sustainability mapping of fish to London restaurants 
 
 Pisces uses a simple 5-point scoring system of worst (1) to best (5):
 
-•	Good 
+Good 
    * the quality of the fish
-•	Green 
+
+Green 
    * sustainability of the stocks
    * stock status
    * selectivity of the fishing gear
    * wider environmental effects
-•	Fair 
+
+Fair 
    * fair returns to fishermen.
 
 For Clarity’s FNS Sub-Sahara project, Pisces inspired the design of the Ceres model to consolidate locally important good, green, and fair indicators for Food and Nutrition Security (FNS) with global indicators from national accounts, such as GHG emissions, employment, etc.
