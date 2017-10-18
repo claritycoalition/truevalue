@@ -10,6 +10,6 @@ Opportunities for global investment (which will increasingly be dominated by "or
 * food production
 * other resource access, depletion, substitution
 * energy and hedging strategies for unburnable carbon
-* innovation.
+* innovation in renewable energy, information technology, business, finance, and policy strategies.
 
 By capturing the data of sustainable best practices in these industries and sectors, True Value will highlight where investment is most needed and best utilized for long-term economic returns while also mitigating the megatrend risks leading up to 2050.
