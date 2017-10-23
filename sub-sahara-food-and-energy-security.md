@@ -28,7 +28,7 @@ But in traditional financial accounts — profit and loss, cash flow and balance
 
 Agritech's wider contribution to local, national, regional, and global economies — food and energy security, increasing family income, reducing the risk of disease, reversing desertification, and mitigating climate change — are also lost in company valuation.
 
-...
+(to be continued...)
 
 
 [Agritech Group](http://www.agritechgroup.com/)
