@@ -10,12 +10,12 @@ For Clarity, a better measure of economic performance would include accounting f
 
 ### What information are we missing? What is the “gap”?
 
-The info gap is the missing data on sustainable development, missing data of small and medium-sized enterprises, missing data from developing countries that neither have the resources nor the infrastructure to collect this massive data.
+[Clean-up and elaborate... 
+The gap is the missing data on sustainable development, missing data of small and medium-sized enterprises, missing data from developing countries that neither have the resources nor the infrastructure to collect this massive data.
 
 The missing data is the measurement of sustainable behavior that is currently not accounted for nor even considered in corporate financial accounting that only measures economic returns.
 
-The information gap is the information that points investment to the sustainable development future.
-
+This is the information gap needed in order to direct investment into the sustainable development future.
 
 There are two sets of data to consider:
 — existing public data stores, such as national accounts and those of the UN, FAO, OECD, and the World Bank, and similar
