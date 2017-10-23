@@ -18,7 +18,7 @@
     * [Good Green Fair Scoring](good-green-fair.md)
     * [TV Technical Framework](tv-tech-framework.md)
 * [The Challenge](tv-challenge.md)
-* [Guiding Principles](tv-guiding-principles.md)
+*
 * [FAQ]
     * [Where does the data come from?](data-about.md)
 * [Glossary](glossary.md)
